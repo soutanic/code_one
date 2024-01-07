@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>ソースコード<title>
+<title>ソースコード</title>
 <script>
 function vignereEncrypt(text, key) {
     let encryptedText = "";
