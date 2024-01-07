@@ -41,6 +41,7 @@ let my_key=prompt('ログインコードを入力してください')
 var result=vignereDecrypt(my_code, my_key)
 var result=replaceAllOccurrences(result,'卍','<br>')
 document.write(result)
+console.log('a')
 </script>
 </head>
 <body>
